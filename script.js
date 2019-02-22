@@ -42,6 +42,7 @@ document.write(planet.cities[1].name);
 document.write("</br>" + planet.name);
 planet.name = "Vultus";
 document.write("</br>" + planet.name);
+// test
 
 var z = planet;
 document.write(z.name);
